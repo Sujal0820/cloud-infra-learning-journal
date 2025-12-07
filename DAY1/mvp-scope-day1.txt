@@ -1,0 +1,7 @@
+MVP Features (Locked):
+• Select cloud resources (EC2, VPC, S3)
+• Auto-generate Terraform code
+• Push Terraform to Git repo
+• GitOps tool deploys to AWS
+• User sees status + logs
+• Explain-the-Infra text summary

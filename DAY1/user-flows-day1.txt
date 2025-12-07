@@ -1,0 +1,10 @@
+User Flow (simple):
+
+User opens dashboard
+Selects resources (ex: EC2 t2.micro)
+Clicks “Generate Terraform”
+System creates terraform files
+Files are pushed to GitOps repo
+GitOps tool deploys to AWS
+User sees deployment status (Success/Failed)
+User clicks “Explain Infra” → sees readable summary
